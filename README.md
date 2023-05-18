@@ -4,6 +4,7 @@ Resources Used - API Gateway , Lambda , DynamoDB, IAM
 # Micro Service Architecture
 ![image](https://github.com/satya19977/Cloud-Computing/assets/108000447/c53fbe8e-d5f1-4834-a07d-630b6b1458b5)
 
+
 **API gateway is used to invoke a python function running in Lambda to insert user data in DynamoDB**
 ## Code Snippets
 DynamoDB Create Operation
