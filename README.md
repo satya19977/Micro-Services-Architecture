@@ -2,7 +2,7 @@
 Resources Used - API Gateway , Lambda , DynamoDB, IAM
 
 # Micro Service Architecture
-![image](https://github.com/satya19977/Cloud-Computing/assets/108000447/c53fbe8e-d5f1-4834-a07d-630b6b1458b5)
+![image](https://github.com/satya19977/Micro-Services-Architecture/assets/108000447/0c8a4655-b30e-4142-81c5-65efe33a842e)
 
 
 **API gateway is used to invoke a python function running in Lambda to insert user data in DynamoDB**
@@ -101,26 +101,21 @@ Lambda Test Code
 }
 ```
 ## IAM
-![image](https://github.com/satya19977/Micro-Service-Architecture/assets/108000447/34dc88a4-0ee7-4a42-921b-e022804a43fc)
-![image](https://github.com/satya19977/Micro-Service-Architecture/assets/108000447/1bc89633-4800-4b39-a06e-30dec608dba0)
-![image](https://github.com/satya19977/Micro-Service-Architecture/assets/108000447/cb983160-bc02-44c1-b903-3e1fc34586a4)
-![image](https://github.com/satya19977/Micro-Service-Architecture/assets/108000447/befb8ee9-6368-46b0-9934-c66b5f031c85)
-![image](https://github.com/satya19977/Micro-Service-Architecture/assets/108000447/303aa247-8146-4e82-b2f4-414cb2b0bc69)
-![image](https://github.com/satya19977/Micro-Service-Architecture/assets/108000447/c579834f-0131-41d8-a8bc-35be4dd7e9f8)
-![image](https://github.com/satya19977/Micro-Service-Architecture/assets/108000447/926bc329-c26f-483f-b9da-25161dfd39ed)
-![image](https://github.com/satya19977/Micro-Service-Architecture/assets/108000447/00ea0fb4-7a99-48b8-b1ad-236e6f425d37)
+
+![image](https://github.com/satya19977/Micro-Services-Architecture/assets/108000447/2d0c07b4-428c-4bf5-8ca5-ffa3239226ad)
+
+![image](https://github.com/satya19977/Micro-Services-Architecture/assets/108000447/fd439355-0ff3-4a66-a03a-9017a0070d54)
+
+![image](https://github.com/satya19977/Micro-Services-Architecture/assets/108000447/d8e761c6-7947-446a-8c74-910ecaffab9f)
+
+
 
 
 
 
 
 ## Lambda
-![image](https://github.com/satya19977/Cloud-Computing/assets/108000447/4af57599-1049-4cd4-9a0d-880fb2797c5a)
-![image](https://github.com/satya19977/Micro-Service-Architecture/assets/108000447/59c2e692-15f8-4cef-a917-39fba2b8affb)
-![image](https://github.com/satya19977/Micro-Service-Architecture/assets/108000447/c128eb56-5022-4727-bb2d-56956f8bdff8)
-![image](https://github.com/satya19977/Micro-Service-Architecture/assets/108000447/8f3cd4d3-ae7f-493e-ab16-2b550ed8e8fc)
-![image](https://github.com/satya19977/Micro-Service-Architecture/assets/108000447/0285e778-85d9-4b25-9414-1a5976828ffa)
-![image](https://github.com/satya19977/Micro-Service-Architecture/assets/108000447/e2d087fb-328c-4477-833c-71b8ff251722)
+
 
 
 
