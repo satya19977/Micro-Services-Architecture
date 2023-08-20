@@ -1,5 +1,4 @@
-# Micro-Services-Architecture
-Resources Used - API Gateway , Lambda , DynamoDB, IAM
+# Resources Used - API Gateway , Lambda , DynamoDB, IAM
 
 
 ![image](https://github.com/satya19977/Micro-Services-Architecture/assets/108000447/0c8a4655-b30e-4142-81c5-65efe33a842e)
